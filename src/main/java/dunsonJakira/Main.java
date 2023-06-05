@@ -20,17 +20,5 @@ public class Main {
             System.out.println("Reversed: " + StringUtils.reverse(input));
         }
 
-
-
-
-
-
-//
-//        StringUtils.reverse();
-//        StringUtils.isNumeric();
-//        StringUtils.swapCase();
-
-
-        System.out.println("Hello world!");
     }
 }
